@@ -20,4 +20,14 @@
 13,402 people found this review helpful
 
 ## Conclusion: ##
-Overall, people seem to enjoy the game but have issues with the ads, progression system, and the feel of accelerating and reversing. We will address these issues by having no ads, sensible progression, and smooth accelerating and reversing. People seem to like the simplicity of the game and UI and the variety of levels and cars.
+Overall, people seem to enjoy the game but have issues with the ads, progression system, and the feel of accelerating and reversing. We will address these issues by having no ads, sensible progression, and smooth accelerating and reversing. People seem to like the simplicity of the game and UI and the variety of levels.
+
+# User Stories #
+### What functions does the system perform? ###
+The system will have the game and a menu with an upgrade system for the train
+### What functions do the “actors” require? ###
+The "actors" need to be able to upgrade their train and be able to accelerate, decelerate, and reverse
+### What input/output does the system need? ###
+The system needs touch input from the user and will output graphics to the user
+### What verbs are used to describe the system? ###
+idk drive, upgrade?
