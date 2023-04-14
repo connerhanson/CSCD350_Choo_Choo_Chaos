@@ -20,4 +20,4 @@
 13,402 people found this review helpful
 
 ## Conclusion: ##
-Overall, people seem to enjoy the game but have issues with the ads, progression system, and the feel of accelerating and reversing. We will address these issues by having no ads, sensible progression, and smooth accelerating and reversing.
+Overall, people seem to enjoy the game but have issues with the ads, progression system, and the feel of accelerating and reversing. We will address these issues by having no ads, sensible progression, and smooth accelerating and reversing. People seem to like the simplicity of the game and UI and the variety of levels and cars.
