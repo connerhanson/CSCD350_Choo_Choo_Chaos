@@ -30,6 +30,8 @@ Overall, people seem to enjoy the game but have issues with the ads, progression
 * the UI to be easily traversable and intuitively understandable, even if I am not familiar with mobile game formats.
 * the gameplay to be visually stimulating and have a helpful HUD for my collectibles, resources, etc.
 
+These are all non-functional requirements idk what functional requirements we should have
+
 # Considerations #
 ### What functions does the system perform? ###
 The system will have the game and a menu with an upgrade system for the train
