@@ -23,19 +23,19 @@
 Overall, people seem to enjoy the game but have issues with the ads, progression system, and the feel of accelerating and reversing. We will address these issues by having no ads, sensible progression, and smooth accelerating and reversing. People seem to like the simplicity of the game and UI and the variety of levels.
 
 # User Stories #
-### As a player, I want: ###
-* to be able to consistantly purchase upgrades for my choo choo train without a crazy grind.
-* to feel in control when I'm accelerating, braking, reversing, or otherwise controlling my choo choo train.
-* to play the game without being interrupted by ads.
-* the UI to be easily traversable and intuitively understandable, even if I am not familiar with mobile game formats.
-* the gameplay to be visually stimulating and have a helpful HUD for my collectibles, resources, etc.
+### As a player, I want to have: ###
+* user input that allows me to play the game.
+* a train model that interacts with the level/environment.
+* a rigid, predictable environment.
+* media such as background music, sound effects, and animations.
+* physics that affect my train and collision detection for objects in a level.
+* a reward/progression system.
+* a helpful HUD for my collectibles, resources, etc. I have while I'm in game.
 
-These are all non-functional requirements idk what functional requirements we should have
-
-# Considerations #
-### What functions does the system perform? ###
-The system will have the game and a menu with an upgrade system for the train
-### What functions do the “actors” require? ###
-The "actors" need to be able to upgrade their train and be able to accelerate, decelerate, and reverse
-### What input/output does the system need? ###
-The system needs touch input from the user and will output graphics to the user
+# Non-Functional Requirements #
+### The player should: ###
+* have the ability to consistantly purchase upgrades for their train without a crazy grind.
+* feel in control when accelerating, braking, reversing, or otherwise controlling their train.
+* be able to play the game without being interrupted by ads.
+* be able to easily traverse the UI and intuitively understand the format, even if they are not familiar with mobile game formats.
+* be visually stimulated by the gameplay, level design, UI, etc.
