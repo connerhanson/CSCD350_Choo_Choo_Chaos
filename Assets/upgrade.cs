@@ -2,11 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class upgrade : MonoBehaviour
 {
 
     [SerializeField] private Button upgrade1;
+    [SerializeField] TextMeshProUGUI m_Object;
     // Start is called before the first frame update
     void Start()
     {
@@ -22,5 +24,6 @@ public class upgrade : MonoBehaviour
 
     void TaskOnClick(){
         Debug.Log("CLICKED");
+        m_Object.text += 1;
     }
 }
