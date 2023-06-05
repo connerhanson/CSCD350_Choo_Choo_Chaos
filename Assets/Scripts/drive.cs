@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
 public class drive : MonoBehaviour
 {
@@ -12,7 +14,8 @@ public class drive : MonoBehaviour
     [SerializeField] public float _rotationSpeed = 300f;
 
     private float moveInput;
-    
+    public Button gas;
+   
 
 
     // Start is called before the first frame update
@@ -32,7 +35,18 @@ public class drive : MonoBehaviour
         _frontTire.AddTorque(-moveInput * _speed * Time.fixedDeltaTime);
         _rearTire.AddTorque(-moveInput * _speed * Time.fixedDeltaTime);
         _car.AddTorque(moveInput * _rotationSpeed * Time.fixedDeltaTime);
+        if(ButtonHandle.buttonPressed == true) 
+        {
+            Debug.Log("button is pressed");
+            ShovelCoal();
+        }
     }
-    
+
+    public void ShovelCoal () {
+        _frontTire.AddTorque(-5 *_speed * Time.fixedDeltaTime);
+        _rearTire.AddTorque(-5 * _speed * Time.fixedDeltaTime);
+        _car.AddTorque(2 * _rotationSpeed * Time.fixedDeltaTime);
+
+    }
 
 }

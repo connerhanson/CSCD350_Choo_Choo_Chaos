@@ -39,4 +39,8 @@ public class LevelManager : MonoBehaviour
     private void UpdateUI(){
         _fuelImage.fillAmount = (_currentFuelAmount / _maxFuelAmount);
     }
+    public void FillFuel(){
+        _currentFuelAmount = _maxFuelAmount;
+        UpdateUI();
+    }
 }
