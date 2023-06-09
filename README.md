@@ -15,7 +15,7 @@ STRUCTURE: <br>
 The structure of this project starts with 3 folders, Assets, Packages, and project settings.    <br>
 
   -Assets:  This folder includes all the written code, sprites, and required supporting code.  Pretty much everything that was created by us that is used in the game is in this folder.    <br>
-          -TextMesh Pro: This is where all the sprites are put along with the supporting textmesh Code    <br>
+          -TextMesh Pro: This is where some of the sprites are put along with the supporting textmesh Code    <br>
  <br>
   -Packages: This folder includes all the the json files uesed in unity     <br>
 <br>
