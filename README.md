@@ -19,7 +19,7 @@ The structure of this project starts with 3 folders, Assets, Packages, and proje
  <br>
   -Packages: This folder includes all the the json files uesed in unity     <br>
 <br>
-  -Project Settings: Includes all text or other media about the project.     <br>
+  -Project Settings: All settings for the game and unity.    <br>
   
   BUILD: <br>
   Refernce User Manual in github. <br>
