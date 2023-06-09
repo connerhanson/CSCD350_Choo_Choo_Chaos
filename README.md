@@ -4,8 +4,8 @@ This repo is dedicated to the devlopement of Choo Choo Chaos
 Authors:
   Artur:
   Cameron:
-  Carter:
-  Conner: chanson19@ewu.edu
+  Carter: >
+  Conner: chanson19@ewu.edu >
   Joseph:
 
 Choo-Choo-Chaos is a game made for our class project for CSCD350
