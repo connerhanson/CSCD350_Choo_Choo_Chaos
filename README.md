@@ -6,7 +6,7 @@ AUTHORS:    <br>
   -Cameron:    <br>
   -Carter:       <br>
   -Conner: chanson19@ewu.edu     <br>
-  -Joseph:    <br>
+  -Joseph: jhoward26@ewu.edu <br>
 
 Choo-Choo-Chaos is a game made for our class project for CSCD350    <br>
 All code is complete in this github repo, no other code is required.    <br>
